@@ -1,0 +1,184 @@
+* {
+  box-sizing: border-box;
+}
+span{
+  background: blue;
+  /* display: block; */
+}
+header {
+  position: sticky;
+  top: 0;
+}
+.shop a {
+  /* Rectangle 30 */
+
+
+position: absolute;
+width: 43px;
+height: 10px;
+left: 30px;
+top: 53px;
+
+}
+.shop a {
+/* SHOP */
+
+
+position: absolute;
+width: 43px;
+height: 20px;
+left: 30px;
+top: 50px;
+
+font-family: Sporting Grotesque;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 20px;
+text-decoration: none;
+/* identical to box height */
+
+align-items: center;
+
+color: #000000;
+}
+.about a {
+  /* Rectangle 31 */
+
+
+position: absolute;
+width: 55px;
+height: 10px;
+left: 30px;
+top: 83px;
+
+
+
+/* ABOUT */
+
+
+position: absolute;
+width: 57px;
+height: 20px;
+left: 30px;
+top: 80px;
+
+font-family: Sporting Grotesque;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 20px;
+text-decoration: none;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+}
+.thestudio a {
+  /* Rectangle 32 */
+
+
+position: absolute;
+width: 92px;
+height: 10px;
+left: 30px;
+top: 113px;
+
+
+
+/* THE STUDIO */
+
+
+position: absolute;
+width: 98px;
+height: 20px;
+left: 30px;
+top: 110px;
+
+font-family: Sporting Grotesque;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 20px;
+text-decoration: none;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+}
+.logo {
+  position: absolute;
+  top: 56px;
+  left: 642px;
+  right: 643px;
+}
+/* .first{
+  background-image: url(pilt.jpg);
+  display: block;
+  font-size: 2em;
+  background-size: contain;
+  /* background-size: cover; */
+  background-repeat: no-repeat;
+  background-position: center;
+} */
+.o {
+  position: relative;
+}
+.fixed {
+  position: fixed;
+}
+.bottom-left {
+  bottom: 50px;
+  left: 50px;
+}
+.tooltip {
+  background: rgba(0, 0, 0, 0.5);
+}
+body {
+  height: 100vh;
+  width: 100vw;
+  margin: 0;
+  padding: 0;
+}
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+ol {
+  list-style-type: none;
+
+}
+.heading1 {
+  /* font-size: 60px;
+  font-style: oblique; */
+  font-size: 3em;
+}
+#heading2 {
+  font-size: 5rem;
+}
+.par {
+  color: #ffffff;
+}
+.pilt {
+  background-color: #e1ede9;
+  border: 5px solid #1f1f1f;
+  margin: 10vw;
+  padding: 5vw;
+  width: 80vw;
+  height: auto;
+}
+#pilt1 {
+  position: absolute;
+  top: 20px;
+  right: 0;
+  margin: 0;
+  width: 40vw;
+}
+#pilt2 {
+position: sticky;
+}
