@@ -186,19 +186,14 @@ background-repeat:
 
 .suurkast {
 
-position: absolute;
-width: 282px;
+width: 350px;
 height: 140px;
-left: 217px;
-top: 363px;
-
 
   padding: 0 2rem;
   position: relative;
   top: 30vh;
   left: 2vw;
   margin: 0 auto;
-  width: 100%;
   max-width: 80em;
 
 }
@@ -209,6 +204,7 @@ top: 363px;
   font-family: Antykwa Poltawskiego
   font-weight:400;
   font-style: normal;
+  font-size: 48px;
 
 }
 
