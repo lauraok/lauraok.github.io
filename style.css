@@ -186,6 +186,13 @@ background-repeat:
 
 .suurkast {
 
+position: absolute;
+width: 282px;
+height: 140px;
+left: 217px;
+top: 363px;
+
+
   padding: 0 2rem;
   position: relative;
   top: 30vh;
