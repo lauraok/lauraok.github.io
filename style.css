@@ -25,9 +25,7 @@ left: 30px;
 top: 53px;
 
 }
-svg {
 
-}
 .shop a {
 /* SHOP */
 
@@ -35,7 +33,7 @@ svg {
 position: absolute;
 width: 43px;
 height: 20px;
-left: 7vw;
+left: 2vw;
 top: 7vh;
 
 font-family: Sporting Grotesque;
@@ -57,8 +55,8 @@ color: #000000;
 position: absolute;
 width: 55px;
 height: 10px;
-left: 30px;
-top: 83px;
+left: 2vw;
+top: 11vh;
 
 
 
@@ -68,8 +66,8 @@ top: 83px;
 position: absolute;
 width: 57px;
 height: 20px;
-left: 30px;
-top: 80px;
+left: 2vw;
+top: 11vh;
 
 font-family: Sporting Grotesque;
 font-style: normal;
@@ -91,8 +89,8 @@ color: #000000;
 position: absolute;
 width: 92px;
 height: 10px;
-left: 30px;
-top: 113px;
+left: 2vw;
+top: 15vh;
 
 
 
@@ -102,8 +100,8 @@ top: 113px;
 position: absolute;
 width: 98px;
 height: 20px;
-left: 30px;
-top: 110px;
+left: 2vw;
+top: 15vh;
 
 font-family: Sporting Grotesque;
 font-style: normal;
@@ -120,6 +118,9 @@ color: #000000;
 }
 .cart a {
 
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
   position: absolute;
   width: 69px;
   height: 23px;
@@ -136,6 +137,12 @@ text-decoration: none;
 
 color: #000000;
 }
+
+/* .korv {
+  position: absolute;
+  right: 0.5vw;
+  top: 7vh;
+} */
 
 .taustapilt {
 
@@ -155,7 +162,7 @@ background-repeat:
 .suurkast {
   padding: 0 2rem;
   position: relative;
-  top: 12em;
+  top: 30vh;
   margin: 0 auto;
   width: 100%;
   max-width: 80em;
@@ -166,7 +173,7 @@ background-repeat:
   margin: 0 0 0.5rem;
 
   font-family: Antykwa Poltawskiego
-  font-weight:200;
+  font-weight:400;
   font-style: normal;
 
 }
