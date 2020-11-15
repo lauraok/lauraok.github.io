@@ -5,11 +5,13 @@ header {
   position: sticky;
   top: 0;
 }
+body {
+  background-image: image(taustapilt.jpg);
+}
   .header {
   position: sticky;
   padding: 2rem;
   display: flex;
-  align-items: flex-start;
 }
 
 .shop a {
@@ -33,8 +35,8 @@ svg {
 position: absolute;
 width: 43px;
 height: 20px;
-left: 30px;
-top: 50px;
+left: 7vw;
+top: 7vh;
 
 font-family: Sporting Grotesque;
 font-style: normal;
@@ -118,16 +120,19 @@ color: #000000;
 }
 .cart a {
 
-display: flex;
-flex-direction: row;
-text-decoration: none;
-align-items: right;
+  position: absolute;
+  width: 69px;
+  height: 23px;
+  right: 1vw;
+  top: 7vh;
+
 
 font-family: Sporting Grotesque;
 font-style: normal;
 font-weight: normal;
 font-size: 12px;
 line-height: 1;
+text-decoration: none;
 
 color: #000000;
 }
@@ -179,6 +184,7 @@ background-repeat:
 .shopnow a {
   position: flex;
   flex-direction: row;
+  padding-right: 1.5rem;
 
   text-decoration: none;
 
