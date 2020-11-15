@@ -136,6 +136,11 @@ align-items: center;
 
 color: #000000;
 }
+.korv {
+  position: absolute;
+  right: 1vw;
+  top: 6vh;
+}
 .cart a {
 
   display: flex;
@@ -180,9 +185,11 @@ background-repeat:
 }
 
 .suurkast {
+
   padding: 0 2rem;
   position: relative;
   top: 30vh;
+  left: 2vw;
   margin: 0 auto;
   width: 100%;
   max-width: 80em;
