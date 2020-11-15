@@ -1,14 +1,17 @@
 * {
   box-sizing: border-box;
 }
-span{
-  background: blue;
-  /* display: block; */
-}
 header {
   position: sticky;
   top: 0;
 }
+  .header {
+  position: sticky;
+  padding: 2rem;
+  display: flex;
+  align-items: flex-start;
+}
+
 .shop a {
   /* Rectangle 30 */
 
@@ -18,6 +21,9 @@ width: 43px;
 height: 10px;
 left: 30px;
 top: 53px;
+
+}
+svg {
 
 }
 .shop a {
@@ -110,75 +116,71 @@ align-items: center;
 
 color: #000000;
 }
-.logo {
-  position: absolute;
-  top: 56px;
-  left: 642px;
-  right: 643px;
+.cart a {
+
+display: flex;
+flex-direction: row;
+text-decoration: none;
+align-items: right;
+
+font-family: Sporting Grotesque;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 1;
+
+color: #000000;
 }
-/* .first{
-  background-image: url(pilt.jpg);
-  display: block;
-  font-size: 2em;
-  background-size: contain;
-  /* background-size: cover; */
-  background-repeat: no-repeat;
-  background-position: center;
-} */
-.o {
-  position: relative;
-}
-.fixed {
-  position: fixed;
-}
-.bottom-left {
-  bottom: 50px;
-  left: 50px;
-}
-.tooltip {
-  background: rgba(0, 0, 0, 0.5);
-}
-body {
-  height: 100vh;
-  width: 100vw;
-  margin: 0;
-  padding: 0;
-}
-ul {
-  list-style-type: none;
-  padding: 0;
-  margin: 0;
-}
-ol {
-  list-style-type: none;
+
+.taustapilt {
+
+display: block;
+position: absolute;
+top: 50%;
+left: 0;
+transform: translateY(-50%);
+width: calc(100% + 1px)
+height: calc(100% + 1px)
+object-fit: cover;
+box-sizing: inherit;
+background-repeat:
 
 }
-.heading1 {
-  /* font-size: 60px;
-  font-style: oblique; */
-  font-size: 3em;
+
+.suurkast {
+  padding: 0 2rem;
+  position: relative;
+  top: 12em;
+  margin: 0 auto;
+  width: 100%;
+  max-width: 80em;
+
 }
-#heading2 {
-  font-size: 5rem;
+
+.pealkiri {
+  margin: 0 0 0.5rem;
+
+  font-family: Antykwa Poltawskiego
+  font-weight:200;
+  font-style: normal;
+
 }
-.par {
-  color: #ffffff;
+
+.content {
+  display:block;
+  position:relative;
+  z-index: 2;
+  width: 100%;
+  max-width: 50em;
 }
-.pilt {
-  background-color: #e1ede9;
-  border: 5px solid #1f1f1f;
-  margin: 10vw;
-  padding: 5vw;
-  width: 80vw;
-  height: auto;
+.paragrahv {
+
 }
-#pilt1 {
-  position: absolute;
-  top: 20px;
-  right: 0;
-  margin: 0;
-  width: 40vw;
-}
-#pilt2 {
-position: sticky;
+.shopnow a {
+  position: flex;
+  flex-direction: row;
+
+  text-decoration: none;
+
+  color: #000000;
 }
