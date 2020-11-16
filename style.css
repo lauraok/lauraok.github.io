@@ -6,7 +6,7 @@ header {
   top: 0;
 }
 body {
-  background-image: image(taustapilt.jpg);
+  background-color: white;
 }
   .header {
   position: sticky;
@@ -192,9 +192,10 @@ height: 140px;
   padding: 0 2rem;
   position: relative;
   top: 30vh;
-  left: 2vw;
+  left: 10px;
   margin: 0 auto;
   max-width: 80em;
+  align-items: left;
 
 }
 
@@ -226,4 +227,47 @@ height: 140px;
   text-decoration: none;
 
   color: #000000;
+}
+
+.vasak {
+  padding: 4rem 2rem;
+  left: 0;
+}
+.pildikast {
+  width: 361px;
+  height: 434px;
+}
+.sokid {
+  position: absolute;
+width: 361px;
+height: 434px;
+left: 181px;
+top: 914px;
+
+  /* display: block;
+  align-items: left; */
+
+}
+
+.parem {
+  position: absolute;
+  align-items: right;
+  right: 0px;
+  /* left: 100vw; */
+
+
+}
+.villane {
+
+  position: absolute;
+  width: 720px;
+  height: 705px;
+  right: 0px;
+  left: 4vw;
+  align-items: right;
+  /* left: 10vw; */
+  top: -5vh;
+  z-index: 2;
+
+
 }
