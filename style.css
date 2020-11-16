@@ -229,6 +229,9 @@ height: 140px;
   color: #000000;
 }
 
+.uusscroll {
+  grid-row: 50%;
+}
 .vasak {
   padding: 4rem 2rem;
   left: 0;
@@ -240,7 +243,7 @@ height: 140px;
   left: 0;
 }
 .sokid {
-  position: relative;
+position: relative;
 width: 361px;
 height: 434px;
 left: 181px;
