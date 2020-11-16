@@ -232,17 +232,19 @@ height: 140px;
 .vasak {
   padding: 4rem 2rem;
   left: 0;
+
 }
 .pildikast {
   width: 361px;
   height: 434px;
+  left: 0;
 }
 .sokid {
-  position: absolute;
+  position: relative;
 width: 361px;
 height: 434px;
 left: 181px;
-top: 914px;
+top: 75vh;
 
   /* display: block;
   align-items: left; */
@@ -250,23 +252,23 @@ top: 914px;
 }
 
 .parem {
-  position: absolute;
+  position: relative;
   align-items: right;
   right: 0px;
-  /* left: 100vw; */
+  left: 45vw;
 
 
 }
 .villane {
 
-  position: absolute;
+  position: relative;
   width: 720px;
   height: 705px;
   right: 0px;
   left: 4vw;
   align-items: right;
   /* left: 10vw; */
-  top: -5vh;
+  top: -4.75vh;
   z-index: 2;
 
 
