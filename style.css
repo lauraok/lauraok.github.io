@@ -181,11 +181,11 @@ a: hover {
 .suurkast {
   width: 400px;
   height: 140px;
-  padding: 0 1rem;
+  /* padding: 0 1rem; */
   position: relative;
-  top: 30vh;
+  top: 25vh;
   left: 0px;
-  margin: 0 1vw;
+  margin: 0 4vw;
   max-width: 80em;
   align-items: left;
 }
@@ -214,6 +214,23 @@ a: hover {
   text-decoration: none;
   color: #000000;
 }
+.shopnow {
+  animation-name: roheline;
+  animation-duration: 1s;
+}
+
+@keyframes roheline {
+from {background-color: none;}
+to {background-color: #95a249}
+}
+a shopnow: hover {
+  background: #95a249;
+  animation: 1s ease-in infinite;
+}
+/* a.shopnow: hover {
+  background: #609665;
+  animation: ease-in
+} */
 
 .uusscroll {
   position: relative;
