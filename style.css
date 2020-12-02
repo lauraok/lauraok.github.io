@@ -1,16 +1,125 @@
 * {
   box-sizing: border-box;
 }
+body {
+  width: 100%;
+}
 
-.cv {
-position: relative;
+.kast {
+position: absolute;
 width: 547px;
 height: 533px;
 left: 446px;
 top: 246px;
 }
 
-.stuudio1 {
+#nimi {
+position: absolute;
+width: 200px;
+height: 44px;
+left: calc(50% - 150px/2 + 148px);
+top: calc(50% - 84px/2 - 223px);
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 300;
+font-size: 36px;
+line-height: 44px;
+color: #000000;
+}
+
+#aasta {
+  position: absolute;
+  width: 76px;
+  height: 29px;
+  left: calc(50% - 76px/2 - 211px);
+  top: calc(50% - 29px/2 - 113.5px);
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 29px;
+
+  color: #000000;
+}
+#eka {
+  position: absolute;
+  width: 314px;
+  height: 29px;
+  left: calc(50% - 215px/2 + 91px);
+  top: calc(50% - 29px/2 - 113.5px);
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 29px;
+
+  color: #000000;
+}
+#lauraokas {
+  position: absolute;
+width: 139px;
+height: 29px;
+left: calc(50% - 139px/2 - 179.5px);
+top: calc(50% - 29px/2 + 229.5px);
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 29px;
+text-decoration: none;
+
+color: #000000;
+}
+#insta {
+position: relative;
+width: 24px;
+height: 24px;
+left: 895px;
+top: 732px;
+z-index: 1;
+}
+/* #cv {
+position: absolute;
+left: 446px;
+top: 246px;
+} */
+
+#rynnostuudio1 {
+position: absolute;
+width: 384px;
+height: 256px;
+left: 384px;
+top: 55px;
+}
+
+.veeb1 {
+position: absolute;
+width: 529px;
+height: 297px;
+left: 654px;
+top: 715px;
+}
+
+#rynnostuudio3 {
+position: absolute;
+width: 235px;
+height: 352px;
+left: 124px;
+top: 55px;
+}
+
+#mobiil1 {
+position: absolute;
+width: 183px;
+height: 396px;
+left: 59px;
+top: 564px;
+}
+/* .stuudio1 {
 position: relative;
 width: 235px;
 height: 352px;
@@ -59,4 +168,4 @@ left: 1017px;
 top: 244px;
 
 background: url(veeb2.jpg);
-}
+} */
