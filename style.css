@@ -10,17 +10,17 @@ left: 446px;
 top: 246px;
 }
 
-.pilt1 {
-  position: relative;
-  width: 235px;
-  height: 352px;
-  left: 124px;
-  top: 55px;
+.stuudio1 {
+position: relative;
+width: 235px;
+height: 352px;
+left: 124px;
+top: 55px;
 
   background: url(rynnostuudio3.jpg);
 }
 
-.pilt2 {
+.stuudio2 {
 position: relative;
 width: 384px;
 height: 256px;
@@ -28,4 +28,15 @@ left: 384px;
 top: 55px;
 
 background: url(rynnostuudio1.jpg);
+}
+
+.mobiil1{
+position: absolute;
+width: 183px;
+height: 396px;
+left: 59px;
+top: 564px;
+
+
+background: url(mobiil1.jpg);
 }
