@@ -31,7 +31,7 @@ background: url(rynnostuudio1.jpg);
 }
 
 .mobiil1{
-position: absolute;
+position: relative;
 width: 183px;
 height: 396px;
 left: 59px;
@@ -39,4 +39,24 @@ top: 564px;
 
 
 background: url(mobiil1.jpg);
+}
+
+.veeb1 {
+position: relative;
+width: 529px;
+height: 297px;
+left: 654px;
+top: 715px;
+
+background: url(veeb1.jpg);
+}
+
+.veeb2 {
+position: relative;
+width: 517px;
+height: 320px;
+left: 1017px;
+top: 244px;
+
+background: url(veeb2.jpg);
 }
