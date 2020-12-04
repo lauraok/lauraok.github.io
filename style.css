@@ -3,6 +3,7 @@
 }
 body {
   width: 100%;
+  font-family: 'Montserrat', sans-serif;
 }
 
 .kast {
@@ -17,10 +18,10 @@ top: 246px;
 position: absolute;
 width: 200px;
 height: 44px;
-left: calc(50% - 150px/2 + 148px);
-top: calc(50% - 84px/2 - 223px);
+left: 325px;
+top: 25px;
 
-font-family: Montserrat;
+
 font-style: normal;
 font-weight: 300;
 font-size: 36px;
@@ -32,10 +33,10 @@ color: #000000;
   position: absolute;
   width: 76px;
   height: 29px;
-  left: calc(50% - 76px/2 - 211px);
-  top: calc(50% - 29px/2 - 113.5px);
+  left: 25px;
+  top: 150px;
 
-  font-family: Montserrat;
+
   font-style: normal;
   font-weight: 300;
   font-size: 24px;
@@ -45,12 +46,12 @@ color: #000000;
 }
 #eka {
   position: absolute;
-  width: 314px;
+  width: 400px;
   height: 29px;
-  left: calc(50% - 215px/2 + 91px);
-  top: calc(50% - 29px/2 - 113.5px);
+  left: 200px;
+  top: 155px;
 
-  font-family: Montserrat;
+
   font-style: normal;
   font-weight: 300;
   font-size: 24px;
@@ -60,17 +61,17 @@ color: #000000;
 }
 #lauraokas {
   position: absolute;
-width: 139px;
-height: 29px;
-left: calc(50% - 139px/2 - 179.5px);
-top: calc(50% - 29px/2 + 229.5px);
+  width: 139px;
+  height: 29px;
+  left: 25px;
+  top: 509px;
 
-font-family: Montserrat;
-font-style: normal;
-font-weight: 300;
-font-size: 24px;
-line-height: 29px;
-text-decoration: none;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 29px;
+  text-decoration: none;
 
 color: #000000;
 }
@@ -78,9 +79,8 @@ color: #000000;
 position: relative;
 width: 24px;
 height: 24px;
-left: 895px;
-top: 732px;
-z-index: 1;
+left: 500px;
+top: 515px;
 }
 /* #cv {
 position: absolute;
@@ -118,6 +118,27 @@ width: 183px;
 height: 396px;
 left: 59px;
 top: 564px;
+}
+
+/* #mobiil1 img {
+  width: 183px;
+  height: 396px;
+} */
+
+img {
+  height: 100%;
+  width: 100%;
+}
+
+@media only screen and (max-width: 768px) {
+
+#rynnostuudio1 {
+width: 176px;
+height: 263px;
+left: 36px;
+top: 116px;
+
+}
 }
 /* .stuudio1 {
 position: relative;
