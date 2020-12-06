@@ -1,3 +1,3 @@
-$('.veeb1').tilt({
+$('img').tilt({
     scale: 1.2
 })
