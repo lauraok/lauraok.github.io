@@ -163,42 +163,42 @@ img {
 @media only screen and (max-width: 1130px) {
 
 #rynnostuudio3 {
-  width: 252px;
-  height: 368px;
+  width: 352px;
+  height: 510px;
   left: 36px;
-  top: 150px;
+  top: 100px;
 }
 
 #rynnostuudio1 {
-  width: 337px;
-  height: 230px;
-  left: 300px;
-  top: 150px;
+  width: 467px;
+  height: 330px;
+  left: 600px;
+  top: 100px;
 }
 #mobiil1 {
-  width: 105px;
-  height: 228px;
+  width: 205px;
+  height: 420px;
   left: 37px;
-  top: 610px;
+  top: 810px;
 }
 #veeb1{
   width: 395px;
   height: 225px;
   left: 328px;
-  top: 718px;
+  top: 918px;
 }
 #veeb2 {
   height: 305px;
   width: 440px;
-  left: 500px;
-  top: 300px;
+  left: 575px;
+  top: 500px;
 }
 
 .kast {
   width: 330px;
   height: 321.55px;
   left: 224px;
-  top: 400px;
+  top: 600px;
 
 }
 .kast1 {
