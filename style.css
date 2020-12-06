@@ -139,18 +139,18 @@ img {
 
 @media only screen and (max-width: 1130px) {
 
-#rynnostuudio1 {
-  width: 176px;
-  height: 263px;
+#rynnostuudio3 {
+  width: 152px;
+  height: 238px;
   left: 36px;
-  top: 116px;
+  top: 50px;
 }
 
-#rynnostuudio3 {
-  width: 232px;
-  height: 155px;
-  left: 289px;
-  top: 116px;
+#rynnostuudio1 {
+  width: 207px;
+  height: 130px;
+  left: 200px;
+  top: 50px;
 }
 #mobiil1 {
   width: 105px;
@@ -159,8 +159,8 @@ img {
   top: 510px;
 }
 #veeb1{
-  width: 152px;
-  height: 42px;
+  width: 225px;
+  height: 125px;
   left: 328px;
   top: 718px;
 }
@@ -168,19 +168,19 @@ img {
   width: 330px;
   height: 321.55px;
   left: 124px;
-  top: 349px;
+  top: 200px;
 }
 #insta{
   width: 15px;
   height: 14px;
-  left: 424px;
-  top: 642.55px;
+  left: 300px;
+  top: 311px;
 }
 #nimi {
   width: 121px;
   height: 27px;
-  left: 338px;
-  top: 362px;
+  left: 210px;
+  top: 25px;
 
   font-size: 18px;
   line-height: 22px;
@@ -188,8 +188,8 @@ img {
 #aasta{
   width: 46px;
   height: 18px;
-  left: 142px;
-  top: 424.55px;
+  left: 20px;
+  top: 75px;
 
   font-size: 14px;
   line-height: 17px;
@@ -197,8 +197,8 @@ img {
 #eka {
   width: 190px;
   height: 18px;
-  left: 256px;
-  top: 420px;
+  left: 126px;
+  top: 75px;
 
   font-size: 14px;
   line-height: 17px;
@@ -206,8 +206,8 @@ img {
 #lauraokas{
   width: 84px;
   height: 18px;
-  left: 142px;
-  top: 641px;
+  left: 20px;
+  top: 311px;
 
   font-size: 14px;
   line-height: 17px;
