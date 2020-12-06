@@ -164,23 +164,52 @@ img {
   left: 328px;
   top: 718px;
 }
+
 .kast {
   width: 330px;
   height: 321.55px;
   left: 124px;
   top: 200px;
+
+}
+.kast1 {
+  width: 330px;
+  height: 50px;
+
+  border-style: solid;
+  border-bottom-style: none;
+  border-color: black;
+  border-width: thin;
+}
+.kast2 {
+  width: 330px;
+  height: 250px;
+
+  border-style: solid;
+  border-bottom-style: none;
+  border-color: black;
+  border-width: thin;
+}
+.kast3 {
+  width: 330px;
+  height: 50px;
+
+  border-style: solid;
+  border-color: black;
+  border-width: thin;
+
 }
 #insta{
   width: 15px;
   height: 14px;
   left: 300px;
-  top: 311px;
+  top: 17px;
 }
 #nimi {
   width: 121px;
   height: 27px;
   left: 210px;
-  top: 25px;
+  top: 0px;
 
   font-size: 18px;
   line-height: 22px;
@@ -207,7 +236,7 @@ img {
   width: 84px;
   height: 18px;
   left: 20px;
-  top: 311px;
+  top: 317px;
 
   font-size: 14px;
   line-height: 17px;
