@@ -14,12 +14,35 @@ body {
   top: 100px;
 }
 
+.kast1 {
+  width: 547px;
+  height: 80px;
+  border-style: solid;
+  border-bottom-style: none;
+  border-color: black;
+  border-width: thin;
+}
+.kast2 {
+  width: 547px;
+  height: 387px;
+  border-style: solid;
+  border-bottom-style: none;
+  border-color: black;
+  border-width: thin;
+}
+.kast3 {
+  width: 547px;
+  height: 80px;
+  border-style: solid;
+  border-color: black;
+  border-width: thin;
+}
 #nimi {
   position: absolute;
   width: 200px;
   height: 44px;
   left: 325px;
-  top: 25px;
+  top: 0px;
 
 
   font-style: normal;
@@ -34,7 +57,7 @@ body {
   width: 76px;
   height: 29px;
   left: 25px;
-  top: 150px;
+  top: 100px;
 
 
   font-style: normal;
@@ -49,7 +72,7 @@ body {
   width: 400px;
   height: 29px;
   left: 200px;
-  top: 155px;
+  top: 100px;
 
 
   font-style: normal;
@@ -64,7 +87,7 @@ body {
   width: 139px;
   height: 29px;
   left: 25px;
-  top: 509px;
+  top: 490px;
 
   font-family: Montserrat;
   font-style: normal;
@@ -80,7 +103,7 @@ body {
   width: 24px;
   height: 24px;
   left: 500px;
-  top: 515px;
+  top: 25px;
 }
 /* #cv {
 position: absolute;
@@ -140,8 +163,8 @@ img {
 @media only screen and (max-width: 1130px) {
 
 #rynnostuudio3 {
-  width: 152px;
-  height: 238px;
+  width: 252px;
+  height: 368px;
   left: 36px;
   top: 50px;
 }
@@ -159,8 +182,8 @@ img {
   top: 510px;
 }
 #veeb1{
-  width: 225px;
-  height: 125px;
+  width: 365px;
+  height: 225px;
   left: 328px;
   top: 718px;
 }
@@ -168,8 +191,8 @@ img {
 .kast {
   width: 330px;
   height: 321.55px;
-  left: 124px;
-  top: 200px;
+  left: 224px;
+  top: 300px;
 
 }
 .kast1 {
