@@ -10,8 +10,8 @@ body {
   position: absolute;
   width: 547px;
   height: 533px;
-  left: 500px;
-  top: 100px;
+  left: 435px;
+  top: 140px;
 }
 
 .kast1 {
@@ -57,7 +57,7 @@ body {
   width: 76px;
   height: 29px;
   left: 25px;
-  top: 100px;
+  top: 125px;
 
 
   font-style: normal;
@@ -72,7 +72,7 @@ body {
   width: 400px;
   height: 29px;
   left: 200px;
-  top: 100px;
+  top: 125px;
 
 
   font-style: normal;
@@ -114,7 +114,7 @@ top: 246px;
   position: absolute;
   width: 480px;
   height: 360px;
-  left: 997px;
+  left: 965px;
   top: 150px;
 }
 
@@ -122,7 +122,7 @@ top: 246px;
   position: absolute;
   width: 384px;
   height: 256px;
-  left: 364px;
+  left: 250px;
   top: 10px;
 }
 
@@ -130,7 +130,7 @@ top: 246px;
   position: absolute;
   width: 529px;
   height: 297px;
-  left: 634px;
+  left: 534px;
   top: 520px;
 }
 
@@ -138,7 +138,7 @@ top: 246px;
   position: absolute;
   width: 235px;
   height: 352px;
-  left: 104px;
+  left: 5px;
   top: 10px;
 }
 
@@ -146,7 +146,7 @@ top: 246px;
   position: absolute;
   width: 183px;
   height: 396px;
-  left: 180px;
+  left: 80px;
   top: 400px;
 }
 
